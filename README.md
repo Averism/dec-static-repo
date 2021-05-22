@@ -1,2 +1,2 @@
-# dec-static-repo
+# dev-static-repo
 static repo for dev tools
