@@ -1,0 +1,17 @@
+{
+    "init": [
+        {
+            "action": "copy",
+            "value": "tsconfig.json",
+            "target": "tsconfig.json"
+        },
+        {
+            "action": "initdir",
+            "value": "src"
+        },
+        {
+            "action": "initdir",
+            "value": "avermodule"
+        }
+    ]
+}
